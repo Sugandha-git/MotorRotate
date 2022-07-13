@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.16875" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/bg_editview.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/bg_editview_normal.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/bg_round_blue.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/state_value_bg.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/toggle_btn.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/drawable/under_line_bg.xml" value="0.298" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/layout/activity_state.xml" value="0.2351421188630491" />
+        <entry key="..\:/AndroidStudioProjects/AisleControlDemo/app/src/main/res/layout/aisle_state_item_adapter_layout.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_state.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/aisle_state_item_adapter_layout.xml" value="0.1816123188405797" />
+        <entry key="app/src/main/res/layout/spinner_list_item.xml" value="0.1816123188405797" />
+        <entry key="app/src/main/res/layout/toast_dialog_layout.xml" value="0.1816123188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

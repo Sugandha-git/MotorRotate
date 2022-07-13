@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AisleControlDemo</string>
+
+    <string name="aisle_run">Testing&#8230;</string>
+    <string name="aisle_normal">Normal</string>
+    <string name="aisle_time_out">Time out</string>
+    <string name="aisle_block">Block</string>
+    <string name="aisle_empty">Empty</string>
+    <string name="aisle_connect_lost">List connect</string>
+    <string name="aisle_check_progress">Aisle testing,please wait!</string>
+    <string name="aisle_adapter_aisle">Aisle Num:</string>
+    <string name="cannot_start_test">Can\'t start test.</string>
+    <string name="degree_celsius">\u2103</string>
+    <string name="title_activity_state">StateActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string><!--摄氏度-->
+</resources>

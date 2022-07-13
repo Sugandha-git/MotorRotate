@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_pay_setting">#34a8ff</color>
+    <color name="color_sort_setting">#d839ff</color>
+    <color name="color_record_setting">#38EEDC</color>
+    <color name="color_syn_setting">#1dd03e</color>
+    <color name="color_cabinet_setting">#ff8800</color>
+    <color name="color_export_setting">#e63f3b</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#34a8ff</color>
+    <color name="red">#e72a0f</color>
+    <color name="holo_red_light">#ffff4444</color>
+
+    <color name="color_title">#6792cc</color>
+
+    <!-- SweetAlertDialog -->
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#DD6B55</color>
+    <color name="red_btn_bg_pressed_color">#CD5B55</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#af80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+
+    <color name="gray">#d8d8d8</color>
+
+    <!-- 用于售货主界面 -->
+    <color name="azure">#f0ffff</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="label_text_color">#a0a0a0</color>
+    <!--<color name="label_text_color_focus">#fe9a2a</color>-->
+    <color name="label_text_color_focus">#34a8ff</color>
+
+    <color name="hint_take_code">#a1a1a1</color>
+    <color name="border_takecode_edittext">#e9e9e9</color>
+    <color name="bkg_number_text">#eaeaea</color>
+    <color name="color_number_text">#585858</color>
+    <color name="green">#85cb46</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#99000000</color>
+    <color name="yellow">#F39801</color>
+
+    <color name="holo_gray_bright">#33CCCCCC</color>
+    <color name="holo_gray_light">#33999999</color>
+
+    <color name="light_gray">#fff5f5f5</color>
+    <color name="orange">#fff39800</color>
+
+    <color name="gray_pay_way_adapter">#20a0a0a0</color>
+
+    <color name="cut_off_line">#ffc43336</color>
+    <color name="text">#ff666666</color>
+    <color name="record_item">#fff7c9ca</color>
+    <color name="record_items">#fff6e0e0</color>
+    <color name="theme_color">#ffc43336</color>
+    <color name="theme_color_checked">#ffac1d20</color>
+    <color name="theme_blue">#ff3b95d1</color>
+    <color name="theme_blue_checked">#ff2278b1</color>
+    <color name="theme_coffee">#ff833932</color>
+    <color name="theme_coffee_checked">#ff56241f</color>
+    <color name="theme_green">#ff60b108</color>
+    <color name="theme_yellow">#ffffa100</color>
+    <color name="theme_yellow_checked">#ffe69509</color>
+    <color name="theme_green_checked">#ff529c01</color>
+    <color name="theme_gray">#ffb8b8b8</color>
+    <color name="theme_gray_checked">#ffa1a1a1</color>
+    <color name="theme_bottle_green">#ff8ed53a</color>
+    <color name="theme_bottle_green_checked">#ff82c92d</color>
+    <color name="theme_olivine">#ff0c93eb</color>
+    <color name="theme_olivine_checked">#ff0387dd</color>
+    <color name="theme_jacinth">#ffef5a34</color>
+    <color name="theme_jacinth_checked">#ffe04c27</color>
+    <color name="theme_dark_bluish">#ff22a69b</color>
+    <color name="theme_dark_bluish_checked">#ff129186</color>
+    <color name="theme_blue_grid">#ff0d6bc2</color>
+    <color name="theme_blue_grid_checked">#ff0461b6</color>
+    <color name="theme_blue_sync">#ff0740a7</color>
+    <color name="theme_blue_sync_checked">#ff02399e</color>
+    <color name="theme_purple">#ff9a27c2</color>
+    <color name="theme_purple_checked">#ff901eb8</color>
+    <color name="theme_light_purple">#FFD98AF5</color>
+    <color name="theme_light_purple_checked">#FFC74CF2</color>
+    <color name="theme_white_checked">#ccffffff</color>
+    <color name="theme_pay">#ff3ab1ff</color>
+    <color name="theme_pay_checked">#ff2ba2f1</color>
+    <color name="theme_supp">#ffd93e17</color>
+    <color name="theme_supp_checked">#ffce330c</color>
+    <color name="theme_record">#ff71af28</color>
+    <color name="theme_record_checked">#ff66a31f</color>
+    <color name="theme_rank">#ff4d8f18</color>
+    <color name="theme_rank_checked">#ff458412</color>
+    <color name="theme_Orange_sale">#fff68446</color>
+    <color name="theme_Orange_sale_checked">#ffe87638</color>
+    <color name="theme_Orange_back">#ffe85818</color>
+    <color name="theme_Orange_back_checked">#ffdb4c0d</color>
+    <color name="theme_handle_record">#ff28d3af</color>
+    <color name="theme_handle_record_checked">#ff25c3a2</color>
+    <color name="theme_sort">#ff00af8a</color>
+    <color name="theme_sort_checked">#ff01a280</color>
+    <color name="theme_shadow">#66666666</color>
+    <color name="gray_soldout">#ffebebeb</color>
+    <color name="text_disabled">#ffcbcbcb</color>
+
+    <color name="shipment_hint_text_color">#ff663300</color>
+    <color name="background_white">#ffffeecc</color>
+    <color name="payment_money_enough">#ffd81f1d</color>
+    <color name="payment_money_no_enough">#ff566666</color>
+    <color name="toast_hint_background">#ff545654</color>
+    <color name="goods_list_dot">#ff262648</color>
+    <color name="goods_list_adapter_line">#ffd6d6d6</color>
+    <color name="goods_info_dark_gray">#ff484858</color>
+    <color name="buy_button_bg">#ff90D045</color>
+    <color name="cart_list_hint">#ff454545</color>
+    <color name="cart_total_price">#ff596bf4</color>
+    <color name="add_cart_button_bg">#ff2680eB</color>
+    <color name="pick_number_color">#ffcfcfcf</color>
+    <color name="balance_value_color">#fff0db5e</color>
+    <color name="price_view_solid">#ff071f3e</color>
+    <color name="payment_operation_hint">#ff1a1818</color>
+    <color name="payment_operation_pay_name">#ff000029</color>
+    <color name="payment_unable_text_color">#ffaeb0b3</color>
+    <color name="payment_unable_image_bg_color">#ff7e7e7e</color>
+    <color name="goods_error_hint_board">#ff71111A</color>
+    <color name="keyboard_bg">#fffbfbfb</color>
+    <color name="click_area_bg">#5faeb0b3</color>
+</resources>
